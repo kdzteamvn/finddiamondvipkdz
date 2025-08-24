@@ -32,3 +32,4 @@ function findserver()
 end
 
 findserver()
+print("Hi")
