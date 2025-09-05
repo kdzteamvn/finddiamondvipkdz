@@ -19,7 +19,7 @@ end
 
 function findserver()
     task.spawn(function()
-        task.wait(150)
+        task.wait(60)
         pcall(resetCharacter)
         task.wait(3)
         while true do
